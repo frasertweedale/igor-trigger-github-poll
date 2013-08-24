@@ -1,0 +1,3 @@
+include MANIFEST.in
+include README.rst
+include agpl-3.0.txt
