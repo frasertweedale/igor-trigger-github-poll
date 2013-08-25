@@ -88,6 +88,7 @@ def main():
                     spec_ref=args.spec_ref,
                     desc=desc,
                     source_uri=source_uri,
+                    source_args=[oid],
                 )
                 msgobj = {
                     'command': 'ordercreate',
